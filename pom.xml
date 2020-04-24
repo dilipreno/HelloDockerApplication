@@ -54,8 +54,6 @@
 			<version>1.4.7</version>
 			<configuration>
 				<repository>cockeriz/mydocrepo/${project.artifactId}</repository>
-				 <username>cockeriz</username>
-                 <password>dilip@1989</password>
 				 <tag>${project.version}</tag>
 				<!-- <useMavenSettingsForAuth>true</useMavenSettingsForAuth> -->
 				<!-- replace `callicoder` with your docker id -->
